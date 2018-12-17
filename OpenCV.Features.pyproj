@@ -33,7 +33,6 @@
     <Compile Include="Main.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="OpenCV.Features.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Images\lena.png" />
